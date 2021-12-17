@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "MarioIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/no",
+	"position": [
+		0,
+		160
+	],
+	"healthicon": "uhmuhh",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		90,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

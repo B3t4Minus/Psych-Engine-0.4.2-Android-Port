@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-276,
+				-210
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "got damn",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-276,
+				-210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "got damn"
+		},
+		{
+			"offsets": [
+				-276,
+				-210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "got damn"
+		},
+		{
+			"offsets": [
+				-276,
+				-210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "got damn"
+		},
+		{
+			"offsets": [
+				-276,
+				-210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "got damn"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/The_End",
+	"position": [
+		-220,
+		40
+	],
+	"healthicon": "ded",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-100,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 2.7
+}
